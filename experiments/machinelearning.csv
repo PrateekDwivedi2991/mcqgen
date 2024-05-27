@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What type of learning algorithm builds a mathematical model of a set of data that contains both the inputs and the desired outputs?,a: Unsupervised learning | b: Reinforcement learning | c: Supervised learning | d: Semi-supervised learning,c
+Which type of algorithm is used when the outputs are restricted to a limited set of values?,a: Regression algorithm | b: Clustering algorithm | c: Classification algorithm | d: Dimensionality reduction algorithm,c
+What is the main goal of reinforcement learning?,a: To find structures in unlabeled data | b: To build a mathematical model of data | c: To take actions in an environment to maximize cumulative reward | d: To reduce the number of random variables under consideration,c
+Which type of learning algorithm falls between unsupervised learning and supervised learning?,a: Reinforcement learning | b: Semi-supervised learning | c: Dimensionality reduction | d: Self-learning,b
+What is the process of reducing the number of random variables under consideration by obtaining a set of principal variables?,a: Feature extraction | b: Cluster analysis | c: Dimensionality reduction | d: Active learning,c
